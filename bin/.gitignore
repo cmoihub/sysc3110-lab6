@@ -3,3 +3,9 @@
 /AddressBookTest.class
 /BuddyInfo.class
 /BuddyInfoTest.class
+/AllTests.class
+/Movie.class
+/MovieList.class
+/TestMovieListWithEmptyList.class
+/TestMovieListWithOneMovie.class
+/TestMovieListWithTwoMovies.class
